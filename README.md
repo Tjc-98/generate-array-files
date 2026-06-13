@@ -25,8 +25,8 @@ No command-line arguments are required.
 
 ### Prerequisites
 
-- Java 17 or later
-- Maven 3.5+
+- Java 21 or later
+- Maven 3.8+
 
 ### Building
 
